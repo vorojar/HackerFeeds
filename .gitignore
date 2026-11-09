@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+.venv*
+translations_zh_s*.json
+translations_zh_merged.json

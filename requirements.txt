@@ -1,0 +1,1 @@
+# HackerFeeds is stdlib-only; no third-party dependencies.
